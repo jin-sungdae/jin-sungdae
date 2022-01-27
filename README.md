@@ -1,4 +1,4 @@
-### Hello world~! 
+### Hello IT world~! 
 
 <!--
 **jin-sungdae/jin-sungdae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
