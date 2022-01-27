@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## C Piscine
 [![sjin's 42 stats](https://badge42.herokuapp.com/api/stats/sjin?cursus=C%20Piscine)](https://github.com/jin-sungdae/jin-sungdae/edit/main/README.md)
 
 
+## Regular Course
 [![sjin's 42 stats](https://badge42.herokuapp.com/api/stats/sjin)](https://github.com/jin-sungdae/jin-sungdae/edit/main/README.md)
