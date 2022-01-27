@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 [![sjin's 42 stats](https://badge42.herokuapp.com/api/stats/sjin)](https://github.com/jin-sungdae/jin-sungdae/edit/main/README.md)
 
 ## Github stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?jin-sungdae=jin-sungdae)]
-(https://github.com/jin-sungdae/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jin-sungdae)]
+
