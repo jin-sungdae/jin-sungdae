@@ -11,7 +11,7 @@
 [![sjin's 42 stats](https://badge42.herokuapp.com/api/stats/sjin)](https://github.com/jin-sungdae/jin-sungdae/edit/main/README.md)
 
 ## Baekjoon
-[![Solved.ac makonle](http://mazassumnida.wtf/api/generate_badge?boj={makonle})(https://solved.ac/{makonle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj={makonle})](https://solved.ac/{makonle})
 
 ## Github stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jin-sungdae)]
