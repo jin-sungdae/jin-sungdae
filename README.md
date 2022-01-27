@@ -2,9 +2,9 @@
 
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=c&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=plastic&logo=appveyor&link=https://zzsza.github.io/)]
 	
-  
+
 ## C Piscine
 [![sjin's 42 stats](https://badge42.herokuapp.com/api/stats/sjin?cursus=C%20Piscine)](https://github.com/jin-sungdae/jin-sungdae/edit/main/README.md)
 
