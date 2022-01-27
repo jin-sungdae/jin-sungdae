@@ -2,7 +2,7 @@
 
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=plastic&logo=appveyor&link=https://zzsza.github.io/)]
+[![Tech Blog Badge](http://img.shields.io/badge/-S%20Jin-black?style=plastic&logo=appveyor&link=https://zzsza.github.io/)]
 	
 
 ## C Piscine
