@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world~! 
 
 <!--
 **jin-sungdae/jin-sungdae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![sjin's 42 stats](https://badge42.herokuapp.com/api/stats/sjin)](https://github.com/jin-sungdae/jin-sungdae/edit/main/README.md)
+privacyEmail=true
+privacyName=true
