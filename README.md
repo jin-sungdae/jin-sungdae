@@ -11,7 +11,7 @@
 
 
 # Baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=makonle)](https://solved.ac/sjin)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjin)](https://solved.ac/sjin)
 
 ## Skills
 
