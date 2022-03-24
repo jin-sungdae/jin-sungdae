@@ -3,11 +3,6 @@
 
 # Github stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jin-sungdae)
-	
-
-# C Piscine && 42 Regular Course
-[![sjin's 42 stats](https://badge42.herokuapp.com/api/stats/sjin?cursus=C%20Piscine)](https://github.com/jin-sungdae/jin-sungdae/edit/main/README.md)
-[![sjin's 42 stats](https://badge42.herokuapp.com/api/stats/sjin)](https://github.com/jin-sungdae/jin-sungdae/edit/main/README.md)
 
 
 # Baekjoon
