@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
 
 ### etc
-<img src="https://img.shields.io/badge/C-26689A?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-40AEF0?style=flat-square&logo=C%2B%2B&Color=white"/> <img src="https://img.shields.io/badge/shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-E6526F?style=flat-squar&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-26689A?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-40AEF0?style=flat-square&logo=C%2B%2B&Color=white"/> <img src="https://img.shields.io/badge/shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-E6526F?style=flat-squar&logo=Linux&logoColor=white"/>
 
 ### Tools
 <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=Intellij IDEA&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
