@@ -25,6 +25,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jin-sungdae&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin-sungdae&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-# Baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjin)](https://solved.ac/sjin)
-</div>
+
