@@ -4,10 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hello%20Sungdae!&fontSize=90" />	
 
 
-
-
-<br><br><br><br>
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jin-sungdae&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin-sungdae&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
