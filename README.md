@@ -13,34 +13,24 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <br> 
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=Nuxt.js&logoColor=white"/> <br> 
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/><br>
   </div>
   <div>
     <p>✨ Back-End ✨</p>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <br> 
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/> <br> 
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> <br> 
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/><br>
   </div>
   <div>
   <p>✨ DevOps ✨</p>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>  
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/><br>
   </div>
   <div>
     <p>✨ etc ✨</p>
     <img src="https://img.shields.io/badge/C-26689A?style=flat-square&logo=C&logoColor=white"/> 
     <img src="https://img.shields.io/badge/C++-40AEF0?style=flat-square&logo=C%2B%2B&Color=white"/> 
-    <img src="https://img.shields.io/badge/shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Linux-E6526F?style=flat-squar&logo=Linux&logoColor=white"/><br>
   </div>
   <div>
     <p>🛠 Tools 🛠</p>
